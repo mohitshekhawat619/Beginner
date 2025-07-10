@@ -15,5 +15,5 @@ It provides CheckPoints to the users from which user can revert to the previous 
 It is a Cloud-based Platform (Website). <br>
 It is built over the functionality of Git. <br>
 Here, Developers Upload their Codes on the Platform. <br>
-And Fellow Developers Pull Requests for the Changes in the Code. <BR>
+And Fellow Developers Pull Requests for the Changes in the Code. <br>
 It is a Code Collaborator Platform which allows Developers to Share, Collaborate and make Changes in the Code. <br>
