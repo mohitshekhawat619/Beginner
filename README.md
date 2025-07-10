@@ -3,10 +3,10 @@ This is my first Git Repository. I am learning how to use Github and Git.
 
         GIT
 --------------------
-It is a Version Control System. 
-It is a Open Source software.
-It is Popular and fast.
-It allows users to share and change the code.
+It is a Version Control System. <br>
+It is a Open Source software. <br>
+It is Popular and fast. <br>
+It allows users to share and change the code. <br>
 
       GITHUB
 --------------------
